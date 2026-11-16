@@ -73,6 +73,6 @@ The dashboard will provide insights on:
 - Customer analysis
 - Geographic sales distribution
 
-(Add Tableau dashboard screenshots here once completed)
+(Tableau dashboard engoing)
 
 
