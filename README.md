@@ -73,6 +73,6 @@ The dashboard will provide insights on:
 - Customer analysis
 - Geographic sales distribution
 
-(Tableau dashboard engoing)
+(Tableau dashboard ongoing)
 
 
